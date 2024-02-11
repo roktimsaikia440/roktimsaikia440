@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Raktim Saikia</h1>
 <h3 align="center">A passionate Data Scientist from INDIA in UK</h3>
 
-<img align=“right” alt=“coding” width=“400” src=“![image](https://github.com/roktimsaikia440/roktimsaikia440/assets/94183402/8c9add54-4bea-46e4-a6d2-a4aad453ff41)
-”>
+<img align="right" alt="coding" width="400" src="https://github.com/roktimsaikia440/roktimsaikia440/assets/94183402/8c9add54-4bea-46e4-a6d2-a4aad453ff41">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roktimsaikia440&label=Profile%20views&color=0e75b6&style=flat" alt="roktimsaikia440" /> </p>
 
